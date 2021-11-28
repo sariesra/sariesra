@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sariesra
 - 👀 I’m interested in java,c#
-- 🌱 I’m currently learning java
 - 📫 You can reach me by sending an e-mail to sariessra@gmail.com.
 
 <!---
